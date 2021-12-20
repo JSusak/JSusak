@@ -3,6 +3,10 @@
 
 ## Currently learning:
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+
 
 <!--
 **JSusak/JSusak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
