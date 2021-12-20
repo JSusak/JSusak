@@ -12,6 +12,13 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
+For practicing I use:
+
+* [CodingBat](https://codingbat.com/java)
+* [HackerRank](https://www.hackerrank.com/dashboard)
+* [LeetCode](https://leetcode.com/)
+* [Hack The Box](https://www.hackthebox.com/)
+
 <!--
 **JSusak/JSusak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
