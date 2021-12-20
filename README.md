@@ -1,9 +1,6 @@
 # Welcome to my profile.
 <a href="https://steamcommunity.com/id/saracenRL/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JSusak&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSusak&hide=TeX&layout=compact)
-
 
 <!--
 **JSusak/JSusak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
