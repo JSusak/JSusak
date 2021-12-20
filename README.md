@@ -1,5 +1,9 @@
 # Welcome to my profile.
 <a href="https://steamcommunity.com/id/saracenRL/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+<a href="https://www.spotify.com/us/" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://www.twitch.tv/saracen_rl" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+
+
 
 ## Currently learning:
 
