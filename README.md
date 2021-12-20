@@ -1,4 +1,5 @@
-### Hi there 👋
+# Welcome to my profile.
+[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/j.o.sh/)](https://www.instagram.com/j.o.sh/)
 
 <!--
 **JSusak/JSusak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
