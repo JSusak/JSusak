@@ -1,5 +1,7 @@
-### Welcome to my profile.
+# Welcome to my profile.
 <a href="https://steamcommunity.com/id/saracenRL/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+
+## Currently learning:
 
 
 <!--
