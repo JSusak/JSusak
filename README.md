@@ -1,7 +1,7 @@
 # Welcome to my profile.
 <a href="https://steamcommunity.com/id/saracenRL/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSusak)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JSusak&count_private=true&show_icons=true&include_all_commits=true)
 
 
 <!--
