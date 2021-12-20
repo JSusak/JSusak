@@ -23,6 +23,8 @@
 * [🇱‌🇪‌🇪‌🇹‌🇨‌🇴‌🇩‌🇪‌](https://leetcode.com/)
 * [🇭‌🇦‌🇨‌🇰‌ 🇹‌🇭‌🇪‌ 🇧‌🇴‌🇽‌](https://www.hackthebox.com/)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=JSusak&row=1&no-bg=true)
+
 <!--
 **JSusak/JSusak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
