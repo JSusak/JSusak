@@ -1,5 +1,5 @@
 # Welcome to my profile.
-[![Instagram Badge](https://img.shields.io/badge/-@j.o.sh-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/j.o.sh/)](https://www.instagram.com/j.o.sh/)
+<a href="https://steamcommunity.com/id/saracenRL/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 
 <!--
 **JSusak/JSusak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
