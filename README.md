@@ -23,8 +23,8 @@
 ### Sports take up a huge chunk of my time:
 
 - When I was younger I was part of **globe rowing club** and went to many regattas in locations such as **Maidstone** and **Eton Dorney**. Travelled to **Greenwich** for indoor training and the **Royal Albert Docks** for going on the water. Came second in my age group at the NJIRC. These days I try to get on the ergometer at least twice a week to improve my 2k.
-- Went to **Fusion Table Tennis club**, attended many booster sessions to improve my overall skill. Fun side hobby to fill time after school.
-- My main sports right now are **bouldering** (have been going to **The Arch** three times a week for a few months now), **cycling** (as a fun side hobby) and **yoga** (to stretch after the climbing!!).
+- Went to **Fusion Table Tennis club**, attended many booster sessions to improve my overall skill. Was an enjoyable side hobby to fill time after school.
+- My main sports right now are **bouldering** (have been going to **The Arch** three times a week for a few months now), **cycling** (best mode of transportation) and **yoga** (to stretch after the climbing!!).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSusak&layout=compact&show_icons=true&theme=dracula&hide_border=true&count=6)](https://github.com/anuraghazra/github-readme-stats)
 
