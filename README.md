@@ -16,7 +16,7 @@
 
 I love to try out new things! Some things I have done over the years include:
 - Work experience at **Gatwick Airport**, shadowing the head of procurement and gaining insght into the daily tasks of someone with extremely high levels of responsibility.
-- Underwent an introductory course at an RAF reserves base. Learnt practical skills like reading maps and navigating to areas using a compass, as well as learning about the history of aircraft.
+- Underwent an introductory course at an RAF reserves base. Learnt practical skills like map reading and navigating with a compass, as well as learning about the history of aircraft.
 - Devising an academic report based on the **quantum effects of black holes**, which allowed me to gain hands-on experience with topics outside the field of CS.
 - **Keyboard building** - a niche hobby of mine and I am constantly looking for group buys/artisans which pique my interest. One day I aim to fill my whole number row with artisans! My favourites are [Jelly Key](https://www.jellykey.com/) and [Dwarf Factory](https://www.dwarf-factory.com/).
 - Whenever I have the time I enjoy playing rhythm games, mainly [osu! (+taiko/mania)](https://osu.ppy.sh/users/8028288) and [quaver](https://quavergame.com/).
