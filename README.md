@@ -10,6 +10,8 @@
 
 - 🤝 I’m looking for help with adding features to my implementation of the [Viola-Jones face detection algorithm](https://github.com/JSusak/Viola-Jones-Algorithm-Alarm).
 
+- 📫 Feel free to contact me on Discord: `Saracen#6210` for any inquiries!
+
 ## 📄 Experiences/Hobbies
 
 - I have done work experience at **Gatwick Airport**, shadowing the head of procurement and gaining insght into the daily tasks of someone with extremely high levels of responsibility.
