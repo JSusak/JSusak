@@ -1,8 +1,4 @@
-
-
-
-<h1 align="center">Hi, I'm Josh :)</h1>
-<h3 align="center">First year CS student at King's College London</h3>
+![alt text](github-header-image.png)
 
 - 🔭 I’m currently working on [my verified Discord bot, Kumo!](https://github.com/JSusak/Kumo-PublicRepo) (trying to reach 100,000+ users across all guilds)
 
