@@ -6,9 +6,9 @@
 
 - 🤝 I’m looking for help with adding features to my implementation of the [Viola-Jones face detection algorithm](https://github.com/JSusak/Viola-Jones-Algorithm-Alarm).
 
-- 📫 Feel free to contact me on Discord: `Saracen#6210` for any inquiries!
-
 - Find me on [Stack Overflow](https://stackoverflow.com/users/19225394/jsusak)! I also like to frequent Hack The Box and Hackerrank occasionally :)
+
+- 📫 Feel free to contact me on Discord: `Saracen#6210` for any inquiries!
 
 ## 📄 Experiences/Hobbies
 
