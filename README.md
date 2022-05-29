@@ -8,6 +8,8 @@
 
 - 📫 Feel free to contact me on Discord: `Saracen#6210` for any inquiries!
 
+- Find me on [Stack Overflow](https://stackoverflow.com/users/19225394/jsusak)!
+
 ## 📄 Experiences/Hobbies
 
 I love to try out new things! Some things I have done over the years include:
