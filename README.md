@@ -8,7 +8,7 @@
 
 - 📫 Feel free to contact me on Discord: `Saracen#6210` for any inquiries!
 
-- Find me on [Stack Overflow](https://stackoverflow.com/users/19225394/jsusak)!
+- Find me on [Stack Overflow](https://stackoverflow.com/users/19225394/jsusak)! I also like to frequent Hack The Box and Hackerrank occasionally :)
 
 ## 📄 Experiences/Hobbies
 
