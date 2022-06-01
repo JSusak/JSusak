@@ -1,6 +1,6 @@
 ![alt text](github-header-image.png)
 
-- 🔭 I’m currently working on [my verified Discord bot, Kumo!](https://github.com/JSusak/Kumo-PublicRepo) (trying to reach 100,000+ users across all guilds)
+- 🔭 I’m currently working on [my verified Discord bot, Kumo!](https://github.com/JSusak/Kumo-PublicRepo)
 
 - 🌱 I’m currently learning **face detection with OpenCV and mobile development with react native.**
 
