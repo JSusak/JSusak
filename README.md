@@ -25,7 +25,6 @@ I love to try out new things! Some things I have done over the years include:
 - Went to **Fusion Table Tennis club**, attended many booster sessions to improve my overall skill. Was an enjoyable side hobby to fill time after school.
 - My main sports right now are **bouldering** (have been going to **The Arch** three+ times a week for a few months now), **cycling** (best mode of transportation) and **yoga** (to stretch after the climbing!!).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSusak&layout=compact&show_icons=true&theme=dracula&hide_border=true&count=6&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JSusak&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <h2 align="left">Languages and Tools:</h2>
