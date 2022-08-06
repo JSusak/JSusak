@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [my verified Discord bot, Kumo!](https://github.com/JSusak/Kumo-PublicRepo)
 
-- 🌱 I’m currently learning **face detection with OpenCV and mobile development with react native.**
+- 🌱 I’m currently learning **face detection with OpenCV and website development with react and chakra UI.**
 
 - 🤝 I’m looking for help with adding features to my implementation of the [Viola-Jones face detection algorithm](https://github.com/JSusak/Viola-Jones-Algorithm-Alarm).
 
