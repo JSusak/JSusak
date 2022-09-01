@@ -1,5 +1,7 @@
 ![alt text](github-header-image.png)
 
+- I have a portfolio now, visit it using the link below my profile :)
+
 - 🔭 I’m currently working on [my verified Discord bot, Kumo!](https://github.com/JSusak/Kumo-PublicRepo)
 
 - 🌱 I’m currently learning **face detection with OpenCV and website development using React and chakra UI.**
