@@ -1,16 +1,8 @@
-![alt text](github-header-image.png)
+o/
 
-- I have a portfolio now, visit it using the link below my profile :)
+**Portfolio**: https://jsusak.github.io/
 
-- 🔭 I’m currently working on [my verified Discord bot, Kumo!](https://github.com/JSusak/Kumo-PublicRepo)
-
-- 🌱 I’m currently learning **face detection with OpenCV and website development using React and chakra UI.**
-
-- 🤝 I’m looking for help with adding features to my implementation of the [Viola-Jones face detection algorithm](https://github.com/JSusak/Viola-Jones-Algorithm-Alarm).
-
-- Find me on [Stack Overflow](https://stackoverflow.com/users/19225394/jsusak)! I also like to frequent Hack The Box and Hackerrank occasionally :)
-
-- 📫 Feel free to contact me on Discord: `Saracen#6210` for any inquiries!
+Find me on [Stack Overflow](https://stackoverflow.com/users/19225394/jsusak)! I also like to frequent Hack The Box and Hackerrank occasionally :)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JSusak&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
