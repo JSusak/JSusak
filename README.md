@@ -1,4 +1,4 @@
-Hi!! o/
+Hi!! Welcome to my profile o/
 
 **Portfolio**: https://jsusak.github.io/
 
