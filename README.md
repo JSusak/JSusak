@@ -3,7 +3,6 @@ Hi!! Welcome to my profile o/
 **Portfolio**: https://jsusak.github.io/
 
 Find me on [Stack Overflow](https://stackoverflow.com/users/19225394/jsusak)! I also like to frequent Hack The Box and Hackerrank occasionally :)
-Merry christmas!
 
 
 <h2 align="left">Languages and Tools:</h2>
