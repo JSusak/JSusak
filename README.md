@@ -3,6 +3,7 @@
 **Portfolio (2023 Revamp)**: https://jsusak.github.io/
 
 My goals as a software developer and designer is to create seamless, highly interactive stories while making sure they are <b>accessible to all</b>. I truly believe that the web can be a place for creativity and freedom to flourish. Everyone should have a chance to experience this.
+My research interests generally fall within the realm of Human-Computer Interaction (Accessibility and User-centred design).
 
 Outside of coding, I enjoy rock climbing and weighted calisthenics. I've also recently joined a [student-led magazine](https://www.strandmagazine.co.uk/) to practice my writing skills.
 
